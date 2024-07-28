@@ -12,18 +12,18 @@
 ## Installation 🛠️
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Kheav-Kienghok/note-tracker
+   git clone https://github.com/Kheav-Kienghok/Note-Tracker
 
 2. **Navigate to the Project Directory**
     ```bash
     cd com/note-tracker
 
-3. **Build the Project**d
-    If you're using VS code:
-    ```bash
-    javac *.java
+3. **Build the Project**
+   + If you're using VS code:
+       ```bash
+       javac *.java
 
-4. **Run the Application**
+5. **Run the Application**
     ```bash
     java Frame.java
 
@@ -35,10 +35,12 @@
 ### Keyboard Shortcuts ⌨️
 Quick actions can be performed using the following keyboard shortcuts:
 
-- `Ctrl+N`: New note
-- `Ctrl+O`: Open note
-- `Ctrl+S`: Save note
-- `Ctrl+Shift+S`: Save note as
-- `Ctrl+X`: Cut text
-- `Ctrl+C`: Copy text
-- `Ctrl+V`: Paste text
+- **New Note:** `Ctrl + N`
+- **Open Note:** `Ctrl + O`
+- **Save Note:** `Ctrl + S`
+- **Save Note As:** `Ctrl + Shift + S`
+- **Cut Text:** `Ctrl + X`
+- **Copy Text:** `Ctrl + C`
+- **Paste Text:** `Ctrl + V`
+- **Bold Text:** `Ctrl + B`
+- **Italic Text:** `Ctrl + I`
